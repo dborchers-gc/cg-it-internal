@@ -1,4 +1,7 @@
 {
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  }
   "Version": {
     "Manifest": "v4",
     "ManifestMinWebPart": "4.0.0",
