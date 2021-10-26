@@ -1,66 +1,66 @@
 {
   "Technologies": [
     {
-      "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+      "Id": "7F9896D2-9763-4238-A537-7E4D444F7440",
       "Name": "Strategic Services",
       "Subjects": []
     },
     {
-      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "Id": "3EBE2AD9-0F05-487E-AB98-4A9D16DF8087",
       "Name": "Operational Services Core",
       "Subjects": []
     },
     {
-      "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+      "Id": "864617CE-D58C-4C02-A826-4847451D0B71",
       "Name": "Operational Services Procurement",
       "Subjects": []
     },
     {
-      "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
+      "Id": "7309EE30-C1E4-4AF1-918E-558E85717F3D",
       "Name": "Operational Services Logistics",
       "Subjects": []
     },
     {
-      "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+      "Id": "7C19DB92-06BF-4667-AD61-260D3AC9121A",
       "Name": "Operational Services Sales",
       "Subjects": []
     },
     {
-      "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "Id": "1AB26E73-A6CC-426A-9656-679C52EFFF2B",
       "Name": "Technical Services",
       "Subjects": [
         {
-          "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
+          "Id": "1A6B7434-4B19-4E47-BB56-D8DDEE78A103",
           "Name": "Enterprise Systems"
         },
         {
-          "Id": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
+          "Id": "E8923F5E-5FB5-47B0-8F50-CB4C5B455CDE",
           "Name": "Core Server"
         },
         {
-          "Id": "41128013-96b4-442f-b44f-a30b232a2782",
+          "Id": "FF9DBD06-E312-49A1-B9DB-3AFB95B37C44",
           "Name": "Network & Basic Infrastructure"
         },
         {
-          "Id": "839db42f-02e6-4d57-93c2-b061f8075c95",
+          "Id": "B697E2E6-47FD-428F-B0ED-9FED552A8FC7",
           "Name": "IT-Workplace"
         }
       ]
     },
     {
-      "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
+      "Id": "25549B88-5E9D-4C2C-9A94-99A01529F269",
       "Name": "G4 Program",
       "Subjects": []
     },
     {
-      "Id": "452e503b-bafb-4023-b00d-b6d9b1701596",
+      "Id": "2DC59368-C88D-4BC4-AA8D-43F259768033",
       "Name": "WW90",
       "Subjects": []
     }
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "EEABC017-F3DB-4D84-B287-71CEF518503C",
       "Name": "Applikationen",
       "Image": "",
       "TechnologyId": "",
@@ -69,7 +69,7 @@
       "SubCategories": []
     },
     {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Id": "9B2F9415-5FFB-4DA3-AF8C-BB8730667248",
       "Name": "Instanzen",
       "Image": "",
       "TechnologyId": "",
@@ -78,7 +78,7 @@
       "SubCategories": []
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Id": "C612CEA4-6EC9-4176-BEE3-1D24C5064319",
       "Name": "Schnittstellen",
       "Image": "",
       "TechnologyId": "",
@@ -87,7 +87,7 @@
       "SubCategories": []
     },
     {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
+      "Id": "DADBED83-4B43-4655-A63B-3E9D0214807C",
       "Name": "Datenbanken",
       "Image": "",
       "TechnologyId": "",
@@ -96,7 +96,7 @@
       "SubCategories": []
     },
     {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
+      "Id": "A5BD4C78-7DBB-4F75-9B89-7D23AB5C6E7B",
       "Name": "Prozesse",
       "Image": "",
       "TechnologyId": "",
@@ -107,51 +107,23 @@
   ],
   "Audiences": [
     {
-      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Id": "B631973E-3B88-4AC0-A9D1-105391B1D6C6",
       "Name": "Alle"
     },
     {
-      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Champions/Trainer"
-    },
-    {
-      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Id": "4A90F154-1EA3-4036-8246-73EED13CE261",
       "Name": "HelpDesk"
     },
     {
-      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "Id": "FB06B3A2-A8E2-4A25-8D7F-8EEA3EC34C79",
       "Name": "Endbenutzer"
     },
     {
-      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Änderungs-Manager"
-    },
-    {
-      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+      "Id": "84427CAD-F2F2-4DB9-BB36-6A2547A40EC5",
       "Name": "Administrator"
     },
     {
-      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Gruppenbesitzer"
-    },
-    {
-      "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
-      "Name": "VIP"
-    },
-    {
-      "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
-      "Name": "Assistent für Geschäftsleitung"
-    },
-    {
-      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
-      "Name": "Inhalts-Editor"
-    },
-    {
-      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Websitesponsor"
-    },
-    {
-      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
+      "Id": "5188EDC2-15C4-432A-A789-65F0F98D8A43",
       "Name": "Inhalts-Manager"
     }
   ],
@@ -162,37 +134,37 @@
   ],
   "Levels": [
     {
-      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Id": "A2D923B6-60D5-4DF3-B543-7A39F3BDDDE5",
       "Name": "Anfänger"
     },
     {
-      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Id": "C8686591-24F9-4D85-975B-28D51EF70B03",
       "Name": "Mittelstufe"
     },
     {
-      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Id": "E0231BA5-5E48-4CFF-BC89-E28625730676",
       "Name": "\"Erweitert\""
     }
   ],
   "StatusTag": [
     {
-      "Id": "42be48f6-1f82-4fda-a757-add2499677d9",
+      "Id": "4DABC7E2-32FD-475C-94F2-89447618675E",
       "Name": "Beta"
     },
     {
-      "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+      "Id": "2890F15E-0167-4967-964B-ECC469FCF4CD",
       "Name": "Eingestellt"
     },
     {
-      "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
+      "Id": "DE3666DE-743A-44D7-9F6E-8796D5658DBF",
       "Name": "Auslaufend"
     },
     {
-      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+      "Id": "C41BE718-BFFF-43E0-A270-F0DA10860F9A",
       "Name": "Aktualisiert"
     },
     {
-      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Id": "C5884EA8-0087-447A-9349-79537EAD3C72",
       "Name": "Neu"
     }
   ]
